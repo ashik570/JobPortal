@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/xampp/htdocs/swapnoloke/app/Http/Controllers/ApplicantController.php</file>
+            <file>file:/D:/xampp/htdocs/swapnoloke/resources/views/discarded/index.blade.php</file>
+            <file>file:/D:/xampp/htdocs/swapnoloke/resources/views/recruited/index.blade.php</file>
+            <file>file:/D:/xampp/htdocs/swapnoloke/app/User.php</file>
+            <file>file:/D:/xampp/htdocs/swapnoloke/resources/views/applicant/index.blade.php</file>
+            <file>file:/D:/xampp/htdocs/swapnoloke/resources/views/applicant/applicationDetailsModal.blade.php</file>
+            <file>file:/D:/xampp/htdocs/swapnoloke/app/Http/Controllers/SelectForInterviewController.php</file>
+            <file>file:/D:/xampp/htdocs/swapnoloke/resources/views/participated/index.blade.php</file>
+            <file>file:/D:/xampp/htdocs/swapnoloke/resources/views/applicant/applicantReviewedModal.blade.php</file>
+            <file>file:/D:/xampp/htdocs/swapnoloke/public/frontend/assets/css/custom.css</file>
+            <file>file:/D:/xampp/htdocs/swapnoloke/resources/views/selectForInterview/index.blade.php</file>
+            <file>file:/D:/xampp/htdocs/swapnoloke/resources/views/applicant/applicantDiscardModal.blade.php</file>
+            <file>file:/D:/xampp/htdocs/swapnoloke/resources/views/reviewed/index.blade.php</file>
+            <file>file:/D:/xampp/htdocs/swapnoloke/resources/lang/en/english.php</file>
+            <file>file:/D:/xampp/htdocs/swapnoloke/routes/web.php</file>
+            <file>file:/D:/xampp/htdocs/swapnoloke/resources/views/confirmed/index.blade.php</file>
+            <file>file:/D:/xampp/htdocs/swapnoloke/resources/views/includes/sidebar.blade.php</file>
+        </group>
+    </open-files>
+</project-private>
